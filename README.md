@@ -9,7 +9,7 @@ Here come's the git roadmap.
 gitGraph
   commit id: "README.md"
   branch my-page
-  commmit id: "course"
+  commit id: "course"
   checkout main
   branch mermaid
   checkout mermaid
