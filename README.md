@@ -12,5 +12,6 @@ gitGraph
   commmit id: "course"
   checkout main
   branch mermaid
+  checkout mermaid
   commit id: "learning.md"
 ```
