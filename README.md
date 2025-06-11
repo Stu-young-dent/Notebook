@@ -1,4 +1,5 @@
 # Notebook
+
 Record the konwledge.
 
 ## git
@@ -14,4 +15,6 @@ gitGraph
   branch mermaid
   checkout mermaid
   commit id: "learning.md"
+  branch Git
+  commit id: "Git-Learn.md"
 ```
